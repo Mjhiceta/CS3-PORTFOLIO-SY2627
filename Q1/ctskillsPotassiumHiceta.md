@@ -34,7 +34,7 @@ For each sub-problem, apply CT skills:
    CT skill: decomposition
    sample solution: Divide the ordering process into smaller steps, such as choosing a food category, choosing an item, and confirming the order.
    
-2. sub-problem: Cashiers have to manually calculate the total price and student's change
+2. sub-problem: Cashiers have to manually calculate the total price and students' change
    CT skill: pattern recognition
    sample solution: Identify the repeated process of adding the prices of each ordered item, then create a system that automatically adds them together.
 
